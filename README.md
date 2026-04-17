@@ -23,6 +23,9 @@ Desenvolvedor Full-Cycle com mais de 7 anos de experiência. Especialista em tra
 
 ### 🌐 Conecte-se Comigo
 <p align="left">
+  <a href="https://www.linkedin.com/in/wagner-lacerda-da-silva-958b9481" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://t.me/LacerdaTraderCode" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Consultoria-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
