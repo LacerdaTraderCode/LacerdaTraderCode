@@ -3,6 +3,31 @@
 
 Desenvolvedor Full-Cycle com mais de 7 anos de experiência. Especialista em transformar estratégias financeiras em sistemas automatizados de alta performance.
 
+<p align="left">
+  <a href="https://github.com/LacerdaTraderCode/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Ver_Portfolio_Completo-Projetos_em_Python-2EA043?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🚀 Portfolio de Projetos
+
+Explore meus projetos públicos em Python — APIs, bots, web scraping, pipelines de dados e automação:
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| 🎯 [**Portfolio Hub**](https://github.com/LacerdaTraderCode/portfolio) | Índice central de todos os projetos | Markdown |
+| 🚀 [**FastAPI REST Boilerplate**](https://github.com/LacerdaTraderCode/fastapi-rest-boilerplate) | API REST com JWT, CRUD e SQLAlchemy | `FastAPI` `JWT` `SQLAlchemy` |
+| 🤖 [**Telegram Crypto Alert Bot**](https://github.com/LacerdaTraderCode/telegram-crypto-alert-bot) | Bot de alertas de criptomoedas em tempo real | `Telegram` `Binance API` `asyncio` |
+| 🕷️ [**Web Scraper Toolkit**](https://github.com/LacerdaTraderCode/web-scraper-toolkit) | Kit completo de scraping (BS4, Selenium, Playwright) | `Selenium` `Playwright` `Polars` |
+| 📊 [**Data Pipeline Polars & DuckDB**](https://github.com/LacerdaTraderCode/data-pipeline-polars-duckdb) | Pipeline ETL moderno e ultra-rápido | `Polars` `DuckDB` `Parquet` |
+| 📈 [**Streamlit Finance Dashboard**](https://github.com/LacerdaTraderCode/streamlit-finance-dashboard) | Dashboard financeiro com indicadores técnicos | `Streamlit` `Plotly` `yfinance` |
+| ⚙️ [**Python Automation Scripts**](https://github.com/LacerdaTraderCode/python-automation-scripts) | 8 scripts para automatizar tarefas de TI | `Python` `pathlib` `psutil` |
+| 🛡️ [**Discord Moderation Bot**](https://github.com/LacerdaTraderCode/discord-moderation-bot) | Bot Discord com slash commands e anti-spam | `discord.py` `SQLAlchemy` |
+
+> 💡 **Muitos dos meus projetos profissionais são privados por contratos de confidencialidade com clientes.** Os repositórios públicos acima demonstram exemplos práticos das tecnologias que utilizo.
+
 ---
 
 ### 🛠️ Especialidades & Soluções
@@ -10,6 +35,8 @@ Desenvolvedor Full-Cycle com mais de 7 anos de experiência. Especialista em tra
 - **AI & LLMs:** Integração de GPT, Gemini e agentes autônomos para análise de dados.
 - **Web Scraping:** Extração de dados complexos com Selenium/Pyppeteer e fluxos em n8n.
 - **FinTech Dashboards:** Painéis em tempo real utilizando Plotly e Dash.
+- **APIs & Backend:** Desenvolvimento de APIs REST com FastAPI e Flask.
+- **Data Engineering:** Pipelines com Polars, DuckDB, Pandas e arquivos Parquet.
 
 ---
 
@@ -35,4 +62,4 @@ Desenvolvedor Full-Cycle com mais de 7 anos de experiência. Especialista em tra
 </p>
 
 📩 **Contato Profissional:** `lacerdatradercode@outlook.com`  
-📍 **RS, Brazil** | 💼 **Disponível para Projetos e Consultoria**
+📍 **RS, Brazil** | 💼 **Disponível para Projetos, Consultoria e Vagas CLT Home Office**
