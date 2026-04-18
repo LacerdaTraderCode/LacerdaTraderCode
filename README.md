@@ -3,7 +3,7 @@
 # Olá, eu sou o Wagner Lacerda 👋
 
 ### 🐍 Python Developer | 🤖 AI Automation Specialist | 📊 Data & Trading
-#### 12+ anos em TI · 7 anos desenvolvendo em Python · Disponível para Home Office
+#### 12+ anos em TI · Desenvolvendo em Python desde 2019 · Disponível para Home Office
 
 ![Open to Work](https://img.shields.io/badge/%23OpenToWork-2EA043?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Location](https://img.shields.io/badge/📍_Rio_Grande_do_Sul,_Brasil-0077B5?style=for-the-badge)
@@ -19,9 +19,11 @@
 
 ### 👨‍💻 Sobre Mim
 
-Profissional de TI com **12+ anos de experiência**, sendo **9 anos na John Deere** em ambiente de manufatura crítica, onde atuei como Analista de Infraestrutura e Líder Técnico. Desde 2019, venho desenvolvendo em Python com foco em automação, trading algorítmico e integração de dados — atualmente dedicado integralmente a projetos sob demanda e consultoria técnica.
+Profissional de TI com **12+ anos de experiência corporativa**, sendo **9 anos na John Deere** como Analista de Infraestrutura e Líder Técnico em ambiente de manufatura crítica com SLA agressivo.
 
-**Diferencial:** combino sólida experiência corporativa (SLA crítico, Scrum, liderança de equipes) com desenvolvimento Python moderno e uso estratégico de IA como copiloto de produtividade.
+Paralelamente à minha trajetória em infraestrutura, **desde 2019 desenvolvo em Python por paixão** — nos primeiros anos como estudo e projetos pessoais de automação e trading algorítmico, e **desde 2023 integralmente** como desenvolvedor em projetos sob demanda: APIs REST, bots, web scraping e integração de dados para o mercado financeiro.
+
+**Diferencial:** combino sólida experiência corporativa (SLA crítico, Scrum, liderança de equipes, smart hands internacional) com a visão de quem conscientemente escolheu transicionar para desenvolvimento, trazendo perspectiva técnica e de negócio ao mesmo tempo.
 
 ---
 
@@ -38,7 +40,7 @@ Profissional de TI com **12+ anos de experiência**, sendo **9 anos na John Deer
 | ⚙️ [**Python Automation Scripts**](https://github.com/LacerdaTraderCode/python-automation-scripts) | 8 scripts de automação | `Python` `pathlib` `psutil` |
 | 🛡️ [**Discord Moderation Bot**](https://github.com/LacerdaTraderCode/discord-moderation-bot) | Bot Discord com slash commands | `discord.py` `SQLAlchemy` |
 
-> 💡 **A maior parte dos meus projetos profissionais é privada por contratos de confidencialidade.** Os repositórios públicos acima demonstram na prática as tecnologias que utilizo.
+> 💡 **A maior parte dos meus projetos profissionais é privada por contratos de confidencialidade com clientes.** Os repositórios públicos acima demonstram na prática as tecnologias que utilizo.
 
 ---
 
@@ -87,7 +89,7 @@ Profissional de TI com **12+ anos de experiência**, sendo **9 anos na John Deer
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-**Sistemas Corporativos (experiência John Deere):**
+**Experiência Corporativa (John Deere):**
 
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-00C487?style=flat-square)
