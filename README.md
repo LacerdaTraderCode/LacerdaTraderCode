@@ -20,11 +20,13 @@
 
 ### 👨‍💻 Sobre Mim
 
-Profissional de TI com **12+ anos de experiência corporativa**, sendo **9 anos na John Deere** como Analista de Infraestrutura e Líder Técnico em ambiente de manufatura crítica com SLA agressivo.
+Profissional de TI com **mais de 12 anos de experiência** em ambientes corporativos, incluindo atuação em infraestrutura e suporte técnico em operação de manufatura crítica com alta exigência de SLA.
 
-Paralelamente à minha trajetória em infraestrutura, **desde 2019 desenvolvo em Python por paixão** — nos primeiros anos como estudo e projetos pessoais de automação e trading algorítmico, e **desde 2023 integralmente** como desenvolvedor em projetos sob demanda: APIs REST, bots, web scraping e integração de dados para o mercado financeiro.
+Desde **2019**, desenvolvo em **Python** de forma contínua fora do ambiente corporativo, iniciando com projetos pessoais de automação e evolução para construção de soluções **backend** como **APIs REST**, bots, web scraping e pipelines de dados.
 
-**Diferencial:** combino sólida experiência corporativa (SLA crítico, Scrum, liderança de equipes, smart hands internacional) com a visão de quem conscientemente escolheu transicionar para desenvolvimento, trazendo perspectiva técnica e de negócio ao mesmo tempo.
+Atualmente, atuo no desenvolvimento de soluções em **Python backend**, com foco em automação e sistemas de dados, utilizando **FastAPI**, **Flask**, **Pandas**, **Polars** e **DuckDB**.
+
+🏆 Diferencial: combinação de visão de sistemas em produção (infraestrutura) com desenvolvimento backend em Python aplicado a problemas reais.
 
 ---
 
