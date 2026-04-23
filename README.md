@@ -2,7 +2,8 @@
 
 # Olá, eu sou o Wagner Lacerda 👋
 
-### 🐍 Python Developer | 🤖 AI Automation Specialist | 📊 Data & Trading
+### 🐍 Python Backend Developer | ⚙️ APIs REST • Automação • Data Engineering
+### 🤖 AI-assisted Development & Automation
 #### 12+ anos em TI · Desenvolvendo em Python desde 2019 · Disponível para Home Office
 
 ![Open to Work](https://img.shields.io/badge/%23OpenToWork-2EA043?style=for-the-badge&logo=linkedin&logoColor=white)
