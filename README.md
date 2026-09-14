@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Wagner Lacerda 👋
 
-### 🐍 Python Backend Developer | ⚙️ APIs REST • Automação • Data Engineering
+### 🐍 Python Backend Developer | ⚙️ APIs REST • Automação • Data Engineering • Machine Learning
 ### 🤖 AI-assisted Development & Automation
 #### 12+ anos em TI · Desenvolvendo em Python desde 2019 · Disponível para Home Office
 
@@ -20,13 +20,13 @@
 
 ### 👨‍💻 Sobre Mim
 
-Profissional de TI com **mais de 12 anos de experiência** em ambientes corporativos, incluindo atuação em infraestrutura e suporte técnico em operação de manufatura crítica com alta exigência de SLA.
+Engenheiro de Software com **mais de 12 anos de experiência** em infraestrutura corporativa e liderança de TI (tendo trabalhado com empresas como **John Deere** e **Cognizant**). 
 
-Desde **2019**, desenvolvo em **Python** de forma contínua fora do ambiente corporativo, iniciando com projetos pessoais de automação e evolução para construção de soluções **backend** como **APIs REST**, bots, web scraping e pipelines de dados.
+Desde **2019**, atuo de forma independente como engenheiro de software, construindo desde **APIs REST** (`FastAPI`, `Flask`) até aplicações web e mobile *full-stack*. Utilizo principalmente **Python**, além de ser proficiente em **TypeScript** e **JavaScript**. 
 
-Atualmente, atuo no desenvolvimento de soluções em **Python backend**, com foco em automação e sistemas de dados, utilizando **FastAPI**, **Flask**, **Pandas**, **Polars** e **DuckDB**.
+Boa parte do meu trabalho recente foca em coleta de dados, *web scraping* e automação (usando ferramentas como `n8n`, `Make` e APIs de mensagens). Lido frequentemente com processamento de alta performance usando **SQL**, `Pandas`, `Polars`, `DuckDB` e arquivos `Parquet`, além de desenvolver modelos preditivos de **Machine Learning** e redes neurais aplicados a padrões de dados e previsões financeiras.
 
-🏆 Diferencial: combinação de visão de sistemas em produção (infraestrutura) com desenvolvimento backend em Python aplicado a problemas reais.
+🏆 **Diferencial:** Combinação sólida de desenvolvimento backend robusto em Python com visão de sistemas em ambientes de produção reais.
 
 ---
 
@@ -38,7 +38,7 @@ Atualmente, atuo no desenvolvimento de soluções em **Python backend**, com foc
 | 🚀 [**FastAPI REST Boilerplate**](https://github.com/LacerdaTraderCode/fastapi-rest-boilerplate) | Template de API REST com JWT e CRUD | `FastAPI` `JWT` `SQLAlchemy` |
 | 🤖 [**Telegram Crypto Alert Bot**](https://github.com/LacerdaTraderCode/telegram-crypto-alert-bot) | Bot de alertas cripto em tempo real | `Telegram` `Binance API` `asyncio` |
 | 🕷️ [**Web Scraper Toolkit**](https://github.com/LacerdaTraderCode/web-scraper-toolkit) | Kit completo de scraping | `Selenium` `Playwright` `Polars` |
-| 📊 [**Data Pipeline Polars & DuckDB**](https://github.com/LacerdaTraderCode/data-pipeline-polars-duckdb) | Pipeline ETL moderno | `Polars` `DuckDB` `Parquet` |
+| 📊 [**Data Pipeline Polars & DuckDB**](https://github.com/LacerdaTraderCode/data-pipeline-polars-duckdb) | Pipeline ETL moderno | `Polars` `DuckDB` `Parquet` `SQL` |
 | 📈 [**Streamlit Finance Dashboard**](https://github.com/LacerdaTraderCode/streamlit-finance-dashboard) | Dashboard financeiro interativo | `Streamlit` `Plotly` `yfinance` |
 | ⚙️ [**Python Automation Scripts**](https://github.com/LacerdaTraderCode/python-automation-scripts) | 8 scripts de automação | `Python` `pathlib` `psutil` |
 | 🛡️ [**Discord Moderation Bot**](https://github.com/LacerdaTraderCode/discord-moderation-bot) | Bot Discord com slash commands | `discord.py` `SQLAlchemy` |
@@ -52,64 +52,51 @@ Atualmente, atuo no desenvolvimento de soluções em **Python backend**, com foc
 **Linguagens & Frameworks:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
 ![MQL5](https://img.shields.io/badge/MQL5-2B2F35?style=flat-square&logoColor=white)
 
-**Dados & ETL:**
+**Dados, SQL & ETL:**
 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
 ![Parquet](https://img.shields.io/badge/Parquet-50ADD8?style=flat-square)
+
+**Machine Learning & IA:**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?style=flat-square&logo=tensorflow&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_/_GPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
 
 **Automação & Scraping:**
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6058F3?style=flat-square&logo=make&logoColor=white)
 
-**IA & LLMs:**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_/_GPT-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-FF6B6B?style=flat-square)
-
-**Banco de Dados:**
+**Banco de Dados & DevOps:**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite)
-
-**DevOps & Ferramentas:**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-**Experiência Corporativa (John Deere):**
-
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-00C487?style=flat-square)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square)
 
 ---
 
 ### 💼 Especialidades
 
-- 🔧 **APIs & Backend:** Desenvolvimento de APIs REST com FastAPI e Flask
-- 📈 **Algorithmic Trading:** Robôs em MQL5 e Python com análise de dados
-- 🤖 **AI & LLMs:** Integração de Claude, GPT e Gemini para automação e análise
-- 🕷️ **Web Scraping:** Extração complexa com Selenium, Playwright e n8n
-- 📊 **Data Engineering:** Pipelines ETL com Polars, DuckDB e Parquet
-- 💻 **Dashboards:** Streamlit, Plotly e Dash para visualização em tempo real
-- 🛠️ **Infraestrutura:** Windows Server, Linux, Active Directory, redes
+- 🔧 **APIs & Backend:** Desenvolvimento de APIs REST robustas com FastAPI e Flask, integradas a bancos relacionais via SQL.
+- 📈 **Algorithmic Trading & Quant:** Robôs de execução automatizada, modelos quantitativos e indicadores em MQL5 e Python.
+- 🤖 **Machine Learning & IA:** Construção de modelos preditivos, redes neurais e integração de LLMs (Claude, GPT, Gemini).
+- 🕷️ **Web Scraping & RPA:** Extração avançada de dados com Playwright, Selenium e automações de fluxo com n8n/Make.
+- 📊 **Data Engineering:** Pipelines ETL de alta performance utilizando Polars, DuckDB, Pandas e arquivos Parquet.
+- 💻 **Full-Stack / Interfaces:** Conexão de backends potentes com interfaces limpas em TypeScript e JavaScript.
 
 ---
 
