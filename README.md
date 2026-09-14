@@ -2,9 +2,9 @@
 
 # Hi there, I'm Wagner Lacerda 👋
 
-### 🐍 Python Backend Developer | ⚙️ REST APIs • Automation • Data Engineering • Machine Learning
-### 🤖 AI-assisted Development & Automation
-#### 12+ years in IT · Developing in Python since 2019 · Available for Remote Work
+### 👨‍💻 Senior Software Engineer & Python Specialist | ⚙️ REST APIs • Automation • Data Engineering
+### 🤖 AI-assisted Development & Machine Learning
+#### 12+ years in IT · Python as primary & preferred language since 2019 · Available for Remote Work
 
 ![Open to Work](https://img.shields.io/badge/%23OpenToWork-2EA043?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Location](https://img.shields.io/badge/📍_Rio_Grande_do_Sul,_Brazil-0077B5?style=for-the-badge)
@@ -22,7 +22,7 @@
 
 Software Engineer with **12+ years of experience** in enterprise infrastructure and IT leadership (having worked with companies like **John Deere** and **Cognizant**). 
 
-Since **2019**, I have been working independently as a software engineer, building everything from **REST APIs** (`FastAPI`, `Flask`) to full-stack web and mobile applications. I primarily use **Python**, while also being proficient in **TypeScript** and **JavaScript**. 
+Since **2019**, I have been working independently as a software engineer, building everything from **REST APIs** (`FastAPI`, `Flask`) to full-stack web and mobile applications. **Python is my primary and preferred language**, while I am also proficient in **TypeScript** and **JavaScript**. 
 
 Much of my recent work focuses on data collection, web scraping, and automation (using tools like `n8n`, `Make`, and messaging APIs). I typically handle high-performance data processing using **SQL**, `Pandas`, `Polars`, `DuckDB`, and `Parquet` files, alongside developing predictive **Machine Learning** models and neural networks applied to data patterns and financial forecasting.
 
@@ -132,7 +132,7 @@ Much of my recent work focuses on data collection, web scraping, and automation 
 
 ### 💼 Open For:
 
-🏠 **Remote CLT Positions** · 📝 **Freelance Projects** · 💡 **Technical Consulting**
+🏠 **Remote PJ Positions** · 📝 **Freelance Projects** · 💡 **Technical Consulting**
 
 📩 **lacerdatradercode@outlook.com**
 
