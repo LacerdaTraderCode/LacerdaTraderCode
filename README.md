@@ -2,7 +2,7 @@
 
 # Hi there, I'm Wagner Lacerda 👋
 
-### 🐍 Senior Software Engineer | Python • Backend • AI Apps • Automation • Systems
+### 🐍 Senior Software Engineer | Python • Backend • AI Apps • Automation • Bots • Systems (Web, Desktop & Mobile)
 ### 🤖 AI-assisted Development & Machine Learning
 #### 12+ years in IT · Python as primary & preferred language since 2019 · Available for Remote Work
 
@@ -22,9 +22,9 @@
 
 Software Engineer with **12+ years of experience** in enterprise infrastructure and IT leadership (having worked with companies like **John Deere** and **Cognizant**). 
 
-Since **2019**, I have been working independently as a software engineer, building everything from **REST APIs** (`FastAPI`, `Flask`) to full-stack web and mobile applications. **Python is my primary and preferred language**, while I am also proficient in **TypeScript** and **JavaScript**. 
+Since **2019**, I have been working independently as a software engineer, building everything from **REST APIs** (`FastAPI`, `Flask`) to full-stack web, desktop, and mobile applications. **Python is my primary and preferred language**, while I am also proficient in **TypeScript**, **JavaScript**, and **Flutter/Dart** for mobile. 
 
-Much of my recent work focuses on data collection, web scraping, and automation (using tools like `n8n`, `Make`, and messaging APIs). I typically handle high-performance data processing using **SQL**, `Pandas`, `Polars`, `DuckDB`, and `Parquet` files, alongside developing predictive **Machine Learning** models and neural networks applied to data patterns and financial forecasting.
+Much of my recent work focuses on data collection, web scraping, and automation (using tools like `n8n`, `Make`, and messaging APIs). I typically handle high-performance data processing using **SQL**, `PostgreSQL`, `Pandas`, `Polars`, `DuckDB`, and `Parquet` files, alongside developing predictive **Machine Learning** models and neural networks applied to data patterns and financial forecasting. I also deploy and scale systems across **AWS, GCP, OCI, and Vercel**, backed by CI/CD pipelines.
 
 🏆 **Differential:** A solid combination of robust Python backend development with a deep systems perspective in real production environments.
 
@@ -54,6 +54,8 @@ Much of my recent work focuses on data collection, web scraping, and automation 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
 ![MQL5](https://img.shields.io/badge/MQL5-2B2F35?style=flat-square&logoColor=white)
@@ -61,6 +63,7 @@ Much of my recent work focuses on data collection, web scraping, and automation 
 **Data, SQL & ETL:**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
@@ -78,25 +81,33 @@ Much of my recent work focuses on data collection, web scraping, and automation 
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6058F3?style=flat-square&logo=make&logoColor=white)
 
-**Databases & DevOps:**
+**DevOps, Cloud & Testing:**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
 ### 💼 Specialties
 
-- 🔧 **APIs & Backend:** Development of robust REST APIs using FastAPI and Flask, integrated with relational databases via SQL.
+- 🔧 **APIs & Backend:** Development of robust REST APIs using FastAPI and Flask, integrated with relational databases (SQL/PostgreSQL).
+- ☁️ **Cloud & DevOps:** Deploying and scaling systems across AWS, GCP, OCI, and Vercel, backed by CI/CD pipelines (GitHub Actions, pytest, Docker).
 - 📈 **Algorithmic Trading & Quant:** Automated execution strategies, quantitative models, and technical indicators in MQL5 and Python.
 - 🤖 **Machine Learning & AI:** Building predictive models, training neural networks, and integrating LLMs (Claude, GPT, Gemini).
 - 🕷️ **Web Scraping & RPA:** Advanced data extraction with Playwright, Selenium, and workflow automation using n8n/Make.
 - 📊 **Data Engineering:** High-performance ETL pipelines leveraging Polars, DuckDB, Pandas, and Parquet files.
-- 💻 **Full-Stack / Interfaces:** Connecting powerful backends with clean, modern interfaces in TypeScript and JavaScript.
+- 💻 **Full-Stack / Interfaces:** Connecting powerful backends with clean, modern interfaces in TypeScript, JavaScript, and Flutter/Dart for mobile.
 
 ---
 
