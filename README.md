@@ -2,7 +2,7 @@
 
 # Hi there, I'm Wagner Lacerda 👋
 
-### 🐍 Senior Software Engineer | Python • REST APIs • Automation • Systems
+### 🐍 Senior Software Engineer | Python • Backend • AI Apps • Automation • Systems
 ### 🤖 AI-assisted Development & Machine Learning
 #### 12+ years in IT · Python as primary & preferred language since 2019 · Available for Remote Work
 
