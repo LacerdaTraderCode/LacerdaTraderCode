@@ -4,7 +4,8 @@
 
 ### 🐍 Senior Software Engineer | Python • Backend • AI Apps • Automation • Bots • Systems (Web, Desktop & Mobile)
 ### 🤖 AI-assisted Development & Machine Learning
-#### 12+ years in IT · Python as primary & preferred language since 2019 · Available for Remote Work
+#### 12+ years in IT · Python as primary & preferred language since 2019
+#### 📩 Available for Full-Time Remote / B2B Contractor (PJ) Agreements
 
 ![Open to Work](https://img.shields.io/badge/%23OpenToWork-2EA043?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Location](https://img.shields.io/badge/📍_Rio_Grande_do_Sul,_Brazil-0077B5?style=for-the-badge)
@@ -84,6 +85,9 @@ Much of my recent work focuses on data collection, web scraping, and automation 
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6058F3?style=flat-square&logo=make&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 
 **DevOps, Cloud & Testing:**
 
@@ -96,6 +100,15 @@ Much of my recent work focuses on data collection, web scraping, and automation 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Binance](https://img.shields.io/badge/Binance-FCD535?style=flat-square&logo=binance&logoColor=black)
+
+**Corporate Experience (John Deere):**
+
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00C487?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square)
 
 ---
 
@@ -143,7 +156,7 @@ Much of my recent work focuses on data collection, web scraping, and automation 
 
 ### 💼 Open For:
 
-🏠 **Remote PJ Positions** · 📝 **Freelance Projects** · 💡 **Technical Consulting**
+🏠 **Full-Time Remote / B2B Contractor (PJ)** · 📝 **Freelance Projects** · 💡 **Technical Consulting**
 
 📩 **lacerdatradercode@outlook.com**
 
