@@ -27,7 +27,7 @@ Since **2019**, I have been working independently as a software engineer, buildi
 
 Much of my recent work focuses on data collection, web scraping, and automation (using tools like `n8n`, `Make`, and messaging APIs). I typically handle high-performance data processing using **SQL**, **NoSQL**, `PostgreSQL`, `Pandas`, `Polars`, `DuckDB`, and `Parquet` files, alongside developing predictive **Machine Learning** models and neural networks applied to data patterns and financial forecasting. I'm also applying LLMs through **Model Context Protocol (MCP)**, **RAG pipelines**, and **fine-tuning/evaluation** workflows. I deploy and scale systems across **AWS, GCP, OCI, and Vercel**, backed by CI/CD pipelines.
 
-🏆 **Differential:** A solid combination of robust Python backend development with a deep systems perspective in real production environments.
+🏆 **Differential:** A solid combination of robust Python backend development — now extending into applied LLM/AI evaluation workflows — with a deep systems perspective in real production environments.
 
 ---
 
