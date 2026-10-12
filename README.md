@@ -12,7 +12,7 @@
 ![Remote](https://img.shields.io/badge/🏠_Remote_Work-6e7681?style=for-the-badge)
 
 <a href="https://github.com/LacerdaTraderCode/portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/📂_View_Complete_Portfolio-8_Python_Projects-2EA043?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/📂_View_Complete_Portfolio-7_Python_Projects-2EA043?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
