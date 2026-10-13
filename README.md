@@ -171,8 +171,6 @@ A curated sample across AI, backend, quant, and security. **16 public projects t
 
 🏠 **Full-Time Remote / B2B Contractor (PJ)** · 📝 **Freelance Projects** · 💡 **Technical Consulting**
 
-📩 **lacerdatradercode@outlook.com**
-
 ⭐ *If my projects helped you, give them a star!* ⭐
 
 </div>
