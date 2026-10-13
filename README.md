@@ -152,6 +152,9 @@ A curated sample across AI, backend, quant, and security. **16 public projects t
   <a href="https://t.me/LacerdaTraderCode" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Consulting-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+  <a href="https://wa.me/5551998544445" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-+55_51_9_9854--4445-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
   <a href="https://www.youtube.com/@LacerdaTraderCode" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Technical_Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
