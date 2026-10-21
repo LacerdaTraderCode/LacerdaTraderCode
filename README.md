@@ -33,7 +33,7 @@ A curated sample across AI, backend, quant, and security. **16 public projects t
 
 | Project | What it does | Stack |
 |---------|---------------|-------|
-| 🧠 [**RAG Knowledge Assistant**](https://github.com/LacerdaTraderCode/rag-knowledge-assistant) | End-to-end RAG pipeline with cited, grounded answers | `TF-IDF` `FastAPI` `Claude` |
+| 🧠 [**RAG Knowledge Assistant**](https://github.com/LacerdaTraderCode/rag-knowledge-assistant) | End-to-end RAG pipeline with cited, grounded answers | `Hybrid Search` `Qdrant` `FastAPI` `Claude` |
 | 🔌 [**Multi-Provider MCP Server**](https://github.com/LacerdaTraderCode/mcp-multi-llm-server) | MCP server comparing Claude, GPT, and Gemini side by side | `MCP` `Claude` `OpenAI` `Gemini` |
 | 🔧 [**FastAPI REST Boilerplate**](https://github.com/LacerdaTraderCode/fastapi-rest-boilerplate) | Production-ready REST API with JWT auth and CRUD | `FastAPI` `SQLAlchemy` `JWT` |
 | 📈 [**Quant Strategy Simulator**](https://github.com/LacerdaTraderCode/quant-strategy-simulator) | Money-management backtester with ruin-rate analysis | `Python` `DuckDB` `Monte Carlo` |
