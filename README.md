@@ -136,18 +136,11 @@ A curated sample across AI, backend, quant, and security. **16 public projects t
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats-sigma-eosin-73.vercel.app/api?username=LacerdaTraderCode&show_icons=true&show_all=true&include_all_commits=true&count_private=true&theme=tokyonight&border_color=3b4261&border_radius=10&cache_seconds=600" width="100%" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats-sigma-eosin-73.vercel.app/api/top-langs/?username=LacerdaTraderCode&layout=donut-vertical&langs_count=10&theme=tokyonight&size_weight=0.5&count_weight=0.5&border_color=3b4261&border_radius=10&cache_seconds=600" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img height="340" src="https://github-readme-stats-sigma-eosin-73.vercel.app/api?username=LacerdaTraderCode&show_icons=true&show_all=true&include_all_commits=true&count_private=true&theme=tokyonight&border_color=3b4261&border_radius=10&cache_seconds=600" />
+  &nbsp;&nbsp;
+  <img height="340" src="https://github-readme-stats-sigma-eosin-73.vercel.app/api/top-langs/?username=LacerdaTraderCode&layout=donut-vertical&langs_count=10&theme=tokyonight&size_weight=0.5&count_weight=0.5&border_color=3b4261&border_radius=10&cache_seconds=600" />
+</p>
 
 ---
 
