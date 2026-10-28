@@ -137,7 +137,7 @@ A curated sample across AI, backend, quant, and security. **16 public projects t
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="340" src="https://github-readme-stats.vercel.app/api?username=LacerdaTraderCode&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&border_color=3b4261&border_radius=10&cache_seconds=600" />
+  <img height="340" src="https://github-readme-stats.vercel.app/api?username=LacerdaTraderCode&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&border_color=3b4261&border_radius=10&cache_seconds=600" />
   &nbsp;&nbsp;
   <img height="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LacerdaTraderCode&layout=donut-vertical&langs_count=10&theme=tokyonight&size_weight=0.5&count_weight=0.5&border_color=3b4261&border_radius=10&cache_seconds=600" />
 </p>
