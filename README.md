@@ -137,8 +137,8 @@ A curated sample across AI, backend, quant, and security. **16 public projects t
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-eosin-73.vercel.app/api?username=LacerdaTraderCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=3b4261&border_radius=10&cache_seconds=1800" />
-  <img src="https://github-readme-stats-sigma-eosin-73.vercel.app/api/top-langs/?username=LacerdaTraderCode&layout=donut&langs_count=10&theme=tokyonight&size_weight=0.5&count_weight=0.5&border_color=3b4261&border_radius=10&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats-sigma-eosin-73.vercel.app/api?username=LacerdaTraderCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=3b4261&border_radius=10&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats-sigma-eosin-73.vercel.app/api/top-langs/?username=LacerdaTraderCode&layout=compact&langs_count=10&theme=tokyonight&size_weight=0.5&count_weight=0.5&border_color=3b4261&border_radius=10&cache_seconds=1800" />
 </p>
 
 ---
